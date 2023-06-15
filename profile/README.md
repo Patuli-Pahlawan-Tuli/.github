@@ -11,7 +11,7 @@ The goal of this application is to provide a tool that can aid in communication 
 
 ## Our Solutions
 
-The solutions we provide are creating this app which have 3 main features:
+The solutions we provide are creating this application which have 3 main features:
 - Learning Modules for learning Bisindo consisting of Alphabets, Numbers, and Words.
 - Gamification to engage users to be more interactive with the application and increase the spirit of learning.
 - Real Time Translation to directly translate detected Bisindo movements so that it can help overcoming the difficulty of communicating with deaf people
