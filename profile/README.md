@@ -47,4 +47,4 @@ For our Cloud Computing repository [click here](https://github.com/Patuli-Pahlaw
 
 ## Contact Us
 
-Feel free to contact us [help.patuli@gmail.com](mailto:help.patuli@gmail.com)
+Feel free to contact us: [help.patuli@gmail.com](mailto:help.patuli@gmail.com)
