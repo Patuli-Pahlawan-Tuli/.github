@@ -18,9 +18,8 @@ The solutions we provide are creating this application which have 3 main feature
 
 ## Our Team
 
-### Team ID: C23-PS037
-
-### Team Members:
+* Team ID: C23-PS037
+* Team Members:
 
 | Name                       | Bangkit ID  | Learning Path      |
 | ---------------------------| ----------- | ------------------ |
@@ -33,17 +32,14 @@ The solutions we provide are creating this application which have 3 main feature
 
 ## Our Repositories
 
-### Machine Learning
+* Machine Learning
+    For our Machine Learning repository [click here](https://github.com/Patuli-Pahlawan-Tuli/Patuli-ML)
 
-For our Machine Learning repository [click here](https://github.com/Patuli-Pahlawan-Tuli/Patuli-ML)
-
-### Mobile Development
-
-For our Mobile Development repository [click here](https://github.com/Patuli-Pahlawan-Tuli/Patuli-Android)
-
-### Cloud Computing
-
-For our Cloud Computing repository [click here](https://github.com/Patuli-Pahlawan-Tuli/Patuli-Cloud)
+* Mobile Development
+    For our Mobile Development repository [click here](https://github.com/Patuli-Pahlawan-Tuli/Patuli-Android)
+    
+* Cloud Computing
+    For our Cloud Computing repository [click here](https://github.com/Patuli-Pahlawan-Tuli/Patuli-Cloud)
 
 ## Contact Us
 
