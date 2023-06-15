@@ -16,7 +16,7 @@ The solutions we provide are creating this application which have 3 main feature
 - Gamification to engage users to be more interactive with the application and increase the spirit of learning.
 - Real Time Translation to directly translate detected Bisindo movements so that it can help overcoming the difficulty of communicating with deaf people
 
-## Team Details
+## Our Team
 
 ### Team ID: C23-PS037
 
@@ -31,7 +31,7 @@ The solutions we provide are creating this application which have 3 main feature
 | Vincentius Agung Prabandaru| C139DSX0965 | Cloud Computing    |
 | Muhammad Imam Alif         | C200DKX4601 | Cloud Computing    |
 
-## Our Repository
+## Our Repositories
 
 ### Machine Learning
 
