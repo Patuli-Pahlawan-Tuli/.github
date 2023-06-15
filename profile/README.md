@@ -35,16 +35,16 @@ The solutions we provide are creating this application which have 3 main feature
 
 ### Machine Learning
 
-For our Machine Learning repository, [click here](https://github.com/Patuli-Pahlawan-Tuli/Patuli-ML)
+For our Machine Learning repository [click here](https://github.com/Patuli-Pahlawan-Tuli/Patuli-ML)
 
 ### Mobile Development
 
-For our Mobile Development repository, [click here](https://github.com/Patuli-Pahlawan-Tuli/Patuli-Android)
+For our Mobile Development repository [click here](https://github.com/Patuli-Pahlawan-Tuli/Patuli-Android)
 
 ### Cloud Computing
 
-For our Cloud Computing repository, [click here](https://github.com/Patuli-Pahlawan-Tuli/Patuli-Cloud)
+For our Cloud Computing repository [click here](https://github.com/Patuli-Pahlawan-Tuli/Patuli-Cloud)
 
 ## Contact Us
 
-Feel free to contact us using this: [help.patuli@gmail.com](mailto:help.patuli@gmail.com)
+Feel free to contact us [help.patuli@gmail.com](mailto:help.patuli@gmail.com)
