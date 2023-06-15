@@ -3,7 +3,7 @@
 </p>
 
 ## What is Patuli?
-Patuli is an Android-based application to learn and communicate sign language using Bisindo gestures with integrated machine-learning. 
+Patuli (Pahlawan Tuli) is an Android-based application to learn and communicate sign language using Bisindo gestures with integrated machine-learning. 
 
 ## Our Goals
 
