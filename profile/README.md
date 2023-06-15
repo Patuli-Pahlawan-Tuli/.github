@@ -18,4 +18,4 @@ The solutions we provide are creating this app which have 3 main features:
 
 ## Contact Us
 
-[help.patuli@gmail.com](mailto:help.patuli@gmail.com)
+Feel free to contact us using this: [help.patuli@gmail.com](mailto:help.patuli@gmail.com)
