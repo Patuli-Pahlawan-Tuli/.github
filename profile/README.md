@@ -2,14 +2,19 @@
     <img src="https://raw.githubusercontent.com/Patuli-Pahlawan-Tuli/Patuli-ML/main/preview.png" alt="Preview">
 </p>
 
+Patuli is an Android-based application to learn and communicate sign language using Bisindo gestures with integrated machine-learning. 
 
-<!--
+## Our Goals
 
-**Here are some ideas to get you started:**
+The goal of this application is to provide a tool that can aid in communication for individuals who are deaf or not and who want to learn sign language using Bisindo gestures. Overall, this application has the potential to make a significant impact on the lives of individuals who rely on sign language for communication.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Our Solution
+
+And the solutions we provide are creating this app which have 3 main features:
+- Learning Modules for learning Bisindo consisting of Alphabets, Numbers, and Words.
+- Gamification to engage users to be more interactive with the application and increase the spirit of learning.
+- Real Time Translation to directly translate detected Bisindo movements so that it can help overcoming the difficulty of communicating with deaf people
+
+## Contact us
+
+[help.patuli@gmail.com](mailto:help.patuli@gmail.com)
